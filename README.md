@@ -1,3 +1,3 @@
 # Contradictory-My-Dear-Watson
 
-https://colab.research.google.com/drive/1GYPfeqiXMjIqNWFV4fGJ1c0F5vuat3di?usp=sharing
+<a target="_blank" href="https://colab.research.google.com/github/jumincho/Contradictory-My-Dear-Watson/blob/main/Contradictory_My_Dear_Watson.ipynb">
